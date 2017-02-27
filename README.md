@@ -53,3 +53,7 @@ Application code is placed in `/var/www/html`. You can also attach a volume to t
 # Docker Compose
 
 Please see [https://github.com/mageinferno/magento2-docker-compose](https://github.com/mageinferno/magento2-docker-compose) for more detailed instructions and an example development environment using Docker Compose.
+
+# Mage Setup
+
+Added `M2SETUP_LANGUAGE`, `M2SETUP_CURRENCY` and `M2SETUP_TIMEZONE` as new setup options
